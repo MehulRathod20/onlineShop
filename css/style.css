@@ -473,15 +473,18 @@ textarea.input {
 
 .header-links li a {
   color: #FFF;
+  font-size: 13px;
 }
 
 .header-links li a:hover {
-  color: #D10024;
+  color: #1f1277;
+  transition: 1s;
 }
 
 .header-links li i {
-  color: #D10024;
-  margin-right: 5px;
+  color: #000000;
+  margin-right: 6px;
+  font-size: 14px;
 }
 
 /*----------------------------*\
